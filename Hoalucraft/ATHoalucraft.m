@@ -10,10 +10,10 @@
 
 @implementation ATHoalucraft
 
-NSString * const SERVICE_PATH = @"http://192.168.164.1/hoalucraft/service";
-NSString * const IMAGE_PATH = @"http://192.168.164.1/hoalucraft/img";
+//NSString * const SERVICE_PATH = @"http://192.168.164.1/hoalucraft/service";
+//NSString * const IMAGE_PATH = @"http://192.168.164.1/hoalucraft/img";
 
-//NSString * const SERVICE_PATH = @"http://hoalucraft.esy.es/service";
-//NSString * const IMAGE_PATH = @"http://hoalucraft.esy.es/img";
+NSString * const SERVICE_PATH = @"http://hoalucraft.esy.es/service";
+NSString * const IMAGE_PATH = @"http://hoalucraft.esy.es/img";
 
 @end
